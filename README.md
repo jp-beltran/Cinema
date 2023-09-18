@@ -7,7 +7,7 @@
 
 Projeto construido na aula de IHC 2 Semestre
 
-[Clique aqui para acessar](https://Laloonn.github.io/IHC)
+[Clique aqui para acessar](https://jp-beltran.github.io/Cinema/index.html)
 
 ## Tecnologias
 - HTML
