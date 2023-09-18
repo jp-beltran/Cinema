@@ -1,0 +1,109 @@
+body{
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    padding: 50px;
+    background-color:#9e1d3d;
+    background: black;
+    font-family: 'Raleway', sans-serif;
+    animation: fromTop .7s .2s backwards;
+
+
+}   
+
+
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+img{
+    border: 5px solid red;
+    border-radius:50px;
+    padding: 30px;
+    box-shadow: 0px 0px 15px red;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-shadow: 0px 0px 5px white;
+    padding-bottom: 40px;
+}
+
+.box{
+    border: 5px solid yellow;
+    border-radius:50px;
+    padding: 30px;
+    box-shadow: 0px 0px 15px yellow;
+    
+}
+
+.box:hover{
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+h1{
+    color: yellow;
+    font-size: 50px;
+    text-shadow: 0px 0px 5px yellow;
+}
+
+.home{
+    margin: 80px;
+    text-align: center;
+
+
+}
+
+.actor{
+    margin: 80px;
+    text-align: center;
+
+
+}
+
+.history{
+    margin: 80px;
+    text-align: center;
+
+
+}
+
+.movies{
+    margin: 80px;
+    text-align: center;
+
+}
+
+
+/*Introdução*/
+.corpo{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-bottom: 4px solid yellow;
+    padding-top: 50px ;
+}
+
+
+
+/* animation */
+@keyframes fromTop {
+    from{
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    
+    to{
+        opacity: 1;
+        transform: translateY(0);
+
+
+    }   
+}
+
+
