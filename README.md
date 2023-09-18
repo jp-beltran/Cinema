@@ -4,7 +4,7 @@
 
 
   > CEUB - ADS -
-  > Professor : Henrique Evaristo
+  > Professor: Henrique Evaristo
 
 Projeto construido na aula de IHC 2 Semestre
 
